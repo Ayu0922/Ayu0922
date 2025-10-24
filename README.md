@@ -1,8 +1,8 @@
 # Hi there, I'm Ayurvedi Ganbawale 👋
 
-### 🚀 Frontend Developer | Angular & JavaScript Enthusiast | Full Stack Explorer
+### 🚀 Frontend Developer | Angular & JavaScript Enthusiast | Full Stack Explorer | AI/ML Learner
+I'm a passionate developer specializing in building responsive and user-friendly web applications. With experience in both frontend frameworks and backend development, I focus on creating efficient, scalable solutions that deliver exceptional user experiences. Currently expanding my expertise into Machine Learning and AI with Python.
 
-I'm a passionate developer specializing in building responsive and user-friendly web applications. With experience in both frontend frameworks and backend development, I focus on creating efficient, scalable solutions that deliver exceptional user experiences across the full stack.
 
 ---
 
@@ -27,7 +27,7 @@ I'm a passionate developer specializing in building responsive and user-friendly
 **Backend & Database:**
 - PHP (MVC Architecture)
 - MySQL
-- RESTful APIs
+
 
 ---
 
@@ -109,28 +109,21 @@ Ashokrao Mane Group Of Institutions, Kolhapur
 
 ---
 
-## 📊 GitHub Stats
 
-![Ayurvedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
 
 ## 🌱 Currently Learning
 
-- Advanced Angular patterns and best practices
-- Modern JavaScript frameworks and libraries
-- Backend development with Node.js
-- Cloud deployment and DevOps practices
+💫 Advanced Angular patterns and best practices
+📗 Modern JavaScript frameworks and libraries
+🤖 Machine Learning & Artificial Intelligence
+🐍 Python for data science and ML applications
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayurvedi-ganbawale-410254210/)](https://www.linkedin.com/in/ayurvedi-ganbawale-410254210/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ayurvediganbavale@gmail.com)](mailto:ayurvediganbavale@gmail.com)
 
 ---
 
