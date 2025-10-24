@@ -127,7 +127,7 @@ Ashokrao Mane Group Of Institutions, Kolhapur
 
 ---
 
-⭐️ From [Ayurvedi Ganbawale](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Ayurvedi Ganbawale](https://github.com/Ayu0922)
 
 ---
 
